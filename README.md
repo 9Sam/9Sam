@@ -14,7 +14,7 @@
 
 `NodeJs` | `Typescript` | `Java` | `SQL` | `HTML5` | `Bootstrap` | `GIT` | `Figma` | `Photoshop` 
 
-## Language and tools I will like to know
+## Language and tools I would like to know
 
 `NestJs` | `Python` | `GO` | `Firebase` | `MongoDB` | `Jest` | `Sass` | 
 
