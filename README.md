@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a 
+- 🔭 I’m currently working on a straw poll meeting app
 - 🌱 I’m currently learning Angular and Typescript
 - 👯 I’m looking to collaborate on Javascript projects
 - 🤔 I’m looking for help with Angular
@@ -12,7 +12,7 @@
 ## Language and tools I know
 
 
-`NodeJs` | `Typescript` | `Java` | `SQL` | `HTML5` | `Bootstrap` | `GIT` | `POSTMAN` | `Figma` | `Photoshop` 
+`NodeJs` | `Typescript` | `Java` | `SQL` | `HTML5` | `Bootstrap` | `Git` | `Postman` | `Figma` | `Photoshop` 
 
 ## Language and tools I would like to know
 
