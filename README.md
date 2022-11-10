@@ -9,12 +9,12 @@
 - 📫 How to reach me: 
 
 
-## Language and tools I know
+## Languages and tools I know
 
 
 `NodeJs` | `Typescript` | `Java` | `SQL` | `HTML5` | `Bootstrap` | `Git` | `Postman` | `Figma` | `Photoshop` 
 
-## Language and tools I would like to know
+## Languages and tools I would like to know
 
 `NestJs` | `Python` | `GO` | `Firebase` | `MongoDB` | `Jest` | `Sass` | 
 
