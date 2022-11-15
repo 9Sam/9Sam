@@ -12,7 +12,7 @@
 ## Languages and tools I know
 
 
-`NodeJs` | `Typescript` | `Java` | `SQL` | `HTML5` | `Angular` | `Bootstrap` | `Git` | `Postman` | `Figma` | `Photoshop` 
+`NodeJs` | `Typescript` | `Java` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `Angular` | `Bootstrap` | `Git` | `Postman` | `Figma` | `Photoshop` 
 
 ## Languages and tools I would like to know
 
