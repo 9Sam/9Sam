@@ -6,17 +6,17 @@
 - 👯 I’m looking to collaborate on Javascript projects
 - 🤔 I’m looking for help with Angular
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/cascosam/">Linkedin</a>
 
 
 ## Languages and tools I know
 
 
-`NodeJs` | `Typescript` | `Java` | `SQL` | `HTML5` | `Bootstrap` | `Git` | `Postman` | `Figma` | `Photoshop` 
+`NodeJs` | `Typescript` | `Java` | `SQL` | `HTML5` | `Angular` | `Bootstrap` | `Git` | `Postman` | `Figma` | `Photoshop` 
 
 ## Languages and tools I would like to know
 
-`NestJs` | `Python` | `GO` | `Firebase` | `MongoDB` | `Jest` | `Sass` | 
+`NestJs` | `React` | `Python` | `GO` | `Firebase` | `MongoDB` | `Jest` | `Sass` | 
 
 <hr>
 
