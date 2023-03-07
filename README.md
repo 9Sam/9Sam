@@ -10,11 +10,11 @@
 ## Languages and tools I know
 
 
-`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `Bootstrap` | `Java`  `Git` | `Postman` | `Figma` | `Photoshop` 
+`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `NestJs` | `Bootstrap` | `Java`  `Git` | `Postman` | `Figma` | | `MongoDB` | `Jest` |
 
 ## Languages and tools I would like to know
 
-`NestJs` | `Python` | `GO` | `Firebase` | `MongoDB` | `Jest` | `Sass` 
+`Python` | `GO` | `Firebase` | `Sass` 
 
 ## Other technologies or apps that I know or have used
 
