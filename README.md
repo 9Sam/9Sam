@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a online store app
 - 🌱 I’m currently learning nextjs
 - 👯 I’m looking to collaborate on Javascript projects
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/cascosam/">🟦 Linkedin</a>, <a href="mailto:sacasco99@outlook.com">📧 Email</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/cascosam/">🟦 Linkedin</a>, <a href="mailto:sacasco99@gmail.com">📧 Email</a>
 
 
 ## Languages and tools I know
