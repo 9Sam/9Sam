@@ -1,21 +1,18 @@
 ## Hi there, welcome to my profile 👋
 
-
-- 🔭 I’m currently working on a online store app
-- 🌱 I’m currently learning nextjs
-- 👯 I’m looking to collaborate on Javascript projects
-- 📫 How to reach me:
-    - Visti me on <a href="https://www.linkedin.com/in/cascosam/">🟦 Linkedin</a>
-    - Or write me an email to <a href="mailto:sacasco99@gmail.com">📧 Email</a>
-
+-  🔭 I’m currently working on a online store app
+-  🌱 I’m currently learning nextjs
+-  👯 I’m looking to collaborate on Javascript projects
+-  📫 How to reach me:
+   -  Visti me on <a href="https://www.linkedin.com/in/cascosam/">🟦 Linkedin</a>
+   -  Or write me an email to <a href="mailto:sacasco99@gmail.com">📧 Email</a>
 
 ## Languages and tools I know
 
-
-`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `NestJs` | `Bootstrap` | `Java`  `Git` | `Postman` | `Figma` | | `MongoDB` | `Jest` |
+`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `NestJs` | `Bootstrap` | `Java` `Git` | `Postman` | `Figma` | | `MongoDB` | `Jest` |
 
 <p align="left">
-        <a href="https://angular.io" target="_blank" rel="noreferrer">
+      <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img
             src="https://angular.io/assets/images/logos/angular/angular.svg"
             alt="angular"
@@ -31,8 +28,7 @@
             height="40"
         />
     </a>
-
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+     <a href="https://www.w3schools.com/css/" talank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3"
@@ -40,7 +36,7 @@
             height="40"
         />
     </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express"
@@ -56,7 +52,7 @@
             height="40"
         />
     </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
             alt="git"
@@ -64,7 +60,7 @@
             height="40"
         />
     </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react"
@@ -72,7 +68,7 @@
             height="40"
         />
     </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5"
@@ -80,7 +76,7 @@
             height="40"
         />
     </a>
-        <a
+    <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
         rel="noreferrer"
@@ -126,11 +122,9 @@
     </a>
 </p>
 
-
-
 ## Languages and tools I would like to know
 
-`Python` | `GO` | `Firebase` | `Sass` 
+`Python` | `GO` | `Firebase` | `Sass`
 
 ## Other technologies or apps that I know or have used
 
@@ -163,7 +157,6 @@
             height="40"
         />
     </a>
-
     <a href="https://golang.org" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
@@ -172,7 +165,6 @@
             height="40"
         />
     </a>
-
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -181,7 +173,6 @@
             height="40"
         />
     </a>
-
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
@@ -214,7 +205,6 @@
             height="40"
         />
     </a>
-
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
