@@ -31,14 +31,7 @@
             height="40"
         />
     </a>
-        <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.chartjs.org/media/logo-title.svg"
-            alt="chartjs"
-            width="40"
-            height="40"
-        />
-    </a>
+
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -47,20 +40,7 @@
             height="40"
         />
     </a>
-</p>
-
-## Languages and tools I would like to know
-
-`Python` | `GO` | `Firebase` | `Sass` 
-
-## Other technologies or apps that I know or have used
-
-`Google App Script` | `ChartJs` | `Trello` | `Notion` | `Wrike` | `Zapier` | `IFTTT` | `datatables (Jquery)` | `Autohotkey`
-
-<hr>
-
-<p align="left">
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express"
@@ -76,15 +56,7 @@
             height="40"
         />
     </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="firebase"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
             alt="git"
@@ -92,15 +64,15 @@
             height="40"
         />
     </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-            alt="go"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react"
             width="40"
             height="40"
         />
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5"
@@ -108,23 +80,7 @@
             height="40"
         />
     </a>
-    <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"
-            alt="ifttt"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-            alt="java"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
+        <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
         rel="noreferrer"
@@ -168,6 +124,64 @@
             height="40"
         />
     </a>
+</p>
+
+
+
+## Languages and tools I would like to know
+
+`Python` | `GO` | `Firebase` | `Sass` 
+
+## Other technologies or apps that I know or have used
+
+`Google App Script` | `ChartJs` | `Trello` | `Notion` | `Wrike` | `Zapier` | `IFTTT` | `datatables (Jquery)` | `Autohotkey`
+
+<hr>
+
+<p align="left">
+        <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"
+            alt="ifttt"
+            width="40"
+            height="40"
+        />
+    </a>
+            <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+        <img
+            src="https://www.chartjs.org/media/logo-title.svg"
+            alt="chartjs"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+            alt="firebase"
+            width="40"
+            height="40"
+        />
+    </a>
+
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+            alt="go"
+            width="40"
+            height="40"
+        />
+    </a>
+
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+            alt="java"
+            width="40"
+            height="40"
+        />
+    </a>
+
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
@@ -200,14 +214,7 @@
             height="40"
         />
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
+
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
