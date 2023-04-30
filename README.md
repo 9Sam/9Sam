@@ -9,13 +9,21 @@
 
 ## Languages and tools I know
 
-`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `NestJs` | `Bootstrap` | `Java` `Git` | `Postman` | `Figma` | | `MongoDB` | `Jest` |
+`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `NestJs` | `Bootstrap` | `Git` | `Postman` | `Figma` | | `MongoDB` | `Jest` | `Tailwindcss`
 
 <p align="left">
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img
             src="https://angular.io/assets/images/logos/angular/angular.svg"
             alt="angular"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"
+            alt="bootstrap"
             width="40"
             height="40"
         />
@@ -126,9 +134,60 @@
 
 `Python` | `GO` | `Firebase` | `Sass`
 
+<p align="left">
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+            alt="firebase"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+            alt="go"
+            width="40"
+            height="40"
+        />
+    </a>
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+            alt="sass"
+            width="40"
+            height="40"
+        />
+    </a>
+        <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img
+            src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+            alt="spring"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript"
+            width="40"
+            height="40"
+        />
+    </a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python"
+            width="40"
+            height="40"
+        />
+    </a>
+</p>
+
 ## Other technologies or apps that I know or have used
 
-`Google App Script` | `ChartJs` | `Trello` | `Notion` | `Wrike` | `Zapier` | `IFTTT` | `datatables (Jquery)` | `Autohotkey`
+`Google App Script` | `ChartJs` | `Trello` | `Notion` | `Wrike` | `Zapier` | `IFTTT` | `datatables (Jquery)` | `Autohotkey` | `JAVA`
 
 <hr>
 
@@ -145,22 +204,6 @@
         <img
             src="https://www.chartjs.org/media/logo-title.svg"
             alt="chartjs"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="firebase"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-            alt="go"
             width="40"
             height="40"
         />
@@ -197,36 +240,5 @@
             height="40"
         />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-            alt="sass"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-            alt="spring"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript"
-            width="40"
-            height="40"
-        />
-    </a>
+
 </p>
