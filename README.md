@@ -5,7 +5,7 @@
 -  👯 I’m looking to collaborate on Javascript projects
 -  📫 How to reach me:
    -  Visti me on <a href="https://www.linkedin.com/in/cascosam/">🟦 Linkedin</a>
-   -  Or write me an email to <a href="mailto:sacasco99@gmail.com">📧 Email</a>
+   -  Or send me an email to <a href="mailto:sacasco99@gmail.com">📧 Email</a>
 
 ## Languages and tools I know
 
