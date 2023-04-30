@@ -1,6 +1,6 @@
 ## Hi there, welcome to my profile 👋
 
--  🔭 I’m currently working on a online store app
+-  🔭 I’m currently working on an online store app to practice my nextjs skills
 -  🌱 I’m currently learning nextjs
 -  👯 I’m looking to collaborate on Javascript projects
 -  📫 How to reach me:
@@ -9,7 +9,7 @@
 
 ## Languages and tools I know
 
-`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `NestJs` | `Bootstrap` | `Git` | `Postman` | `Figma` | | `MongoDB` | `Jest` | `Tailwindcss`
+`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `NestJs` | `Bootstrap` | `Git` | `Postman` | `Figma` | `MongoDB` | `Jest/Mocha` | `Tailwindcss` | `Docker` | `NextJS v12`
 
 <p align="left">
      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -179,7 +179,7 @@
 
 ## Other technologies or apps that I know or have used
 
-`Google App Script` | `ChartJs` | `Trello` | `Notion` | `Wrike` | `Zapier` | `IFTTT` | `datatables (Jquery)` | `Autohotkey` | `JAVA`
+`Google App Script` | `ChartJs` | `Trello` | `Notion` | `Wrike` | `Zapier` | `IFTTT` | `datatables (Jquery)` | `Autohotkey` | `Java` | SpringBoot
 
 <hr>
 
