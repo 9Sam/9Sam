@@ -179,7 +179,7 @@
 
 ## Other technologies or apps that I know or have used
 
-`Google App Script` | `ChartJs` | `Trello` | `Notion` | `Wrike` | `Zapier` | `IFTTT` | `datatables (Jquery)` | `Autohotkey` | `Java` | SpringBoot
+`Google App Script` | `ChartJs` | `Trello` | `Notion` | `Wrike` | `Zapier` | `IFTTT` | `datatables (Jquery)` | `Autohotkey` | `Java` | `SpringBoot`
 
 <hr>
 
