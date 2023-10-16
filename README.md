@@ -4,12 +4,12 @@
 -  🌱 I’m currently learning nextjs
 -  👯 I’m looking to collaborate on Javascript projects
 -  📫 How to reach me:
-   -  Visti me on <a href="https://www.linkedin.com/in/cascosam/">🟦 Linkedin</a>
+   -  Visit me on <a href="https://www.linkedin.com/in/cascosam/">🟦 Linkedin</a>
    -  Or send me an email to <a href="mailto:sacasco99@gmail.com">📧 Email</a>
 
 ## Languages and tools I know
 
-`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `NestJs` | `Bootstrap` | `Git` | `Postman` | `Figma` | `MongoDB` | `Jest/Mocha` | `Tailwindcss` | `Docker` | `NextJS v12`
+`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `NestJs` | `Bootstrap` | `Git` | `Postman` | `Figma` | `MongoDB` | `Jest/Mocha` | `Tailwindcss` | `Docker` | `NextJS` | `Redux` | `Material UI`
 
 <p align="left">
      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
