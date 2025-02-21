@@ -9,7 +9,7 @@
 
 ## Languages and tools I know
 
-`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `NestJs` | `Bootstrap` | `Git` | `Postman` | `Figma` | `MongoDB` | `Jest/Mocha` | `Tailwindcss` | `Docker` | `NextJS` | `Redux` | `Material UI`
+`NodeJs` | `Typescript` | `SQL (Mysql | Oracle | SqlServer)` | `HTML5` | `ReactJs` | `Angular` | `NestJs` | `Bootstrap` | `Git` | `Postman` | `Figma` | `MongoDB` | `Jest/Mocha` | `Tailwindcss` | `Docker` | `NextJS` | `Redux` | `Material UI` | `Sass`
 
 <p align="left">
      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -136,11 +136,19 @@
             height="40"
         />
     </a>
+      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+            alt="sass"
+            width="40"
+            height="40"
+        />
+    </a>
 </p>
 
 ## Languages and tools I would like to know
 
-`Python` | `GO` | `Firebase` | `Sass`
+`Python` | `GO` | `Firebase` | 
 
 <p align="left">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -155,14 +163,6 @@
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
             alt="go"
-            width="40"
-            height="40"
-        />
-    </a>
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-            alt="sass"
             width="40"
             height="40"
         />
