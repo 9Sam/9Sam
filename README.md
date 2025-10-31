@@ -56,7 +56,7 @@ Aquí están las tecnologías que uso profesionalmente, organizadas por área de
 </p>
 
 ### 3. Bases de Datos & DevOps
-`Docker` | `Git` | `PostgreSQL` | `MySQL` | `SQL Server` | `Oracle` | `MongoDB` | `Jenkins` | `SonarQube`
+`Docker` | `Git` | `PostgreSQL` | `SQL Server` | `MongoDB` | `Jenkins` | `SonarQube`
 
 <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -65,17 +65,11 @@ Aquí están las tecnologías que uso profesionalmente, organizadas por área de
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
 </p>
 
