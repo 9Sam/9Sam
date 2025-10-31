@@ -1,6 +1,6 @@
 ## Hi there, welcome to my profile 👋
 
-<img style="border: 10px; object-fit: cover; width: 100%; height: 100px;" src="https://cdn.pixabay.com/photo/2018/01/17/20/22/analytics-3088958_1280.jpg" alt="logo">
+<img style="border: 10px; object-fit: cover; width: 100%; height: 150px;" src="https://cdn.pixabay.com/photo/2018/01/17/20/22/analytics-3088958_1280.jpg" alt="logo">
 
 ### Senior Full-Stack Developer (Angular | NestJS | Typescript)
 
