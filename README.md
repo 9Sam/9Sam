@@ -1,12 +1,12 @@
 ## Hi there, welcome to my profile 👋
 
-<img
-  style="border: 10px solid #ccc; border-radius: 10px; object-fit: cover; width: 100%; height: 150px;"
-  src="https://cdn.pixabay.com/photo/2018/01/17/20/22/analytics-3088958_1280.jpg"
-  alt="logo"
-/>
-
-
+<div style="overflow: hidden; border-radius: 10px;">
+  <img
+    style="width: 100%; height: 150px; object-fit: cover;"
+    src="imagen.jpg"
+    alt="Ejemplo"
+  />
+</div>
 
 ### Senior Full-Stack Developer (Angular | NestJS | Typescript)
 
