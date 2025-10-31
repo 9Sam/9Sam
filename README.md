@@ -1,12 +1,11 @@
 ## Hi there, welcome to my profile 👋
 
-<div style="overflow: hidden; border-radius: 10px;">
-  <img
-    style="width: 100%; height: 150px; object-fit: cover;"
-    src="imagen.jpg"
-    alt="Ejemplo"
-  />
-</div>
+<div style="
+  width: 100%;
+  height: 150px;
+  border-radius: 10px;
+  background: linear-gradient(to right, #4e54c8, #8f94fb);
+"></div>
 
 ### Senior Full-Stack Developer (Angular | NestJS | Typescript)
 
