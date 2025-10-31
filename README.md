@@ -1,6 +1,6 @@
 ## Hi there, welcome to my profile 👋
 
-### Senior Full-Stack Developer (Angular | NestJS | Next.js)
+### Senior Full-Stack Developer (Angular | NestJS | Typescript)
 
 Soy un desarrollador con más de 4 años de experiencia, especializado en construir y mantener aplicaciones web escalables. Mi pasión es crear arquitecturas de Front-End robustas con **Angular** y microservicios de alto rendimiento con **NestJS**.
 
