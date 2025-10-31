@@ -74,7 +74,7 @@ Aquí están las tecnologías que uso profesionalmente, organizadas por área de
 </p>
 
 ### 4. Testing & Herramientas
-`Jest` | `Mocha` | `Postman` | `Figma`
+`Jest` | `Jenkins` | `Mocha` | `Postman` | `Figma`
 
 <p align="left">
     <a href="https://jestjs.io" target="_blank" rel="noreferrer">
