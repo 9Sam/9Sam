@@ -1,7 +1,7 @@
 ## Hi there, welcome to my profile 👋
 
 <img
-  style="border-radius: 10px solid #ccc; object-fit: cover; width: 100%; height: 150px;"
+  style="border-radious: 10px solid #ccc; object-fit: cover; width: 100%; height: 150px;"
   src="https://cdn.pixabay.com/photo/2018/01/17/20/22/analytics-3088958_1280.jpg"
   alt="logo"
 />
