@@ -4,11 +4,11 @@
 
 Soy un desarrollador con más de 4 años de experiencia, especializado en construir y mantener aplicaciones web escalables. Mi pasión es crear arquitecturas de Front-End robustas con **Angular** y microservicios de alto rendimiento con **NestJS**.
 
-🎯 Abierto a nuevas oportunidades profesionales (Remoto). Busco un rol desafiante donde pueda aplicar mi experiencia senior en Angular, NestJS, o Next.js.
-🌱 Mis intereses técnicos a futuro incluyen la transición a DevOps con Python y Go.
+🎯 Open to new professional opportunities (Remote). I’m seeking a challenging role where I can apply my senior-level experience in Angular, NestJs, or NextJs.
+🌱 My future technical interests include transitioning to DevOps with Python and Go.
 - 📫 Cómo contactarme:
-  - Visítame en <a href="https://www.linkedin.com/in/cascosam/">🟦 Linkedin</a>
-  - O envíame un email a <a href="mailto:sacasco99@gmail.com">📧 Email</a>
+  - Visit me on <a href="https://www.linkedin.com/in/cascosam/">🟦 Linkedin</a>
+  - Or send me an email at <a href="mailto:sacasco99@gmail.com">📧 Email</a>
 
 ---
 
